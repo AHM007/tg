@@ -88,3 +88,8 @@ _____________________________________________3
 
 ## https://telegram.me/Nod32team
 
+________________________________________________________________________________
+
+### channel : https://telegram.me/Nod32team
+
+### developer : https://telegram.me/Behroozyaghi
