@@ -9,7 +9,7 @@
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
     You should have received a copy of the GNU General Public License
-    along with this telegram-cli.  If not, see <http://www.gnu.org/licenses/>.
+    along with this telegram-cli.  If not,  see <http://www.gnu.org/licenses/>.
     Copyright Vitaly Valtman 2013-2015
 */
 
