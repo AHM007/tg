@@ -1,6 +1,6 @@
 # English
 
-1- Firset Copy all ### structures.c code
+1- Firset Copy all structures.c code
 
 2- Go To Bot Folder
 
@@ -8,7 +8,7 @@
 
 4- open tgl Folder
 
-5- Search ### structures.c and replace this ### structures.c code.
+5- Search structures.c and replace this structures.c code.
 
 6- then save file [Ctrl+S]
 
@@ -46,7 +46,9 @@ ________________________________________________________________________________
 را باز کنید و تمام کد های کپی شده را جایگزین کنیدstructures.c  سپس فایل
 
 را برای ذخیره کد ها بزنیدctrl+s سپس
+
 ______________________________________________1
+
 ترمینال جدید باز کنید و دستور زیر را وارد کنید
 ```bash
 nano structures.c
@@ -59,6 +61,7 @@ ctrl+x
 Y
 ```
 ____________________________________________2
+
 سپس در همان ترمینال کد های زیر را وارد کنید
 ```bash
 cd (اسم ربات خودتان)
