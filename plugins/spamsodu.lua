@@ -2,18 +2,18 @@ do
  
 function run(msg, matches)
 
-  local tex = matches[1]
-  local sps = matches[2]
-  local sp = '\n:|'
-  for i=1, tex, 1 do 
-      sp = '\n'..sps..'\n'..sp
+  local text = matches[1]
+  local data = matches[2]
+  local BehroOz = '\n: Iam Yaghi'
+  for i=1, text, 1 do 
+      BehroOz = '\n'..data..'\n'..BehrOoz
   end 
-   return sp
+   return BehroOz
 end
 
 return {
     patterns = {
-      "^[!/]spam (%d+) (.+)$"
+      "^[!/][Yy]aghi (%d+) (.+)$"
     },
     run = run,
     privileged = true
