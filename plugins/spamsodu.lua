@@ -1,7 +1,5 @@
 do
- 
 function run(msg, matches)
-
   local text = matches[1]
   local data = matches[2]
   local BehroOz = '\n: Iam Yaghi'
@@ -18,9 +16,11 @@ return {
     run = run,
     privileged = true
 }
-
 end
+
+
 --Copyright and edit; @behroozyaghi
 --Persian Translate; @behroozyaghi
 --ch : @nod32team
 --کپی بدون ذکر منبع حرام است
+--*_*
